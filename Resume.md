@@ -82,6 +82,7 @@ GPA: 3.0
 - React
 
 **Project samples**:
+
 Saiddit: A clone built using React and MongoDB
 
 [Deployed Saiddit App](https://saiddit-app.herokuapp.com/)
